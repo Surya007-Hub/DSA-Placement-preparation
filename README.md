@@ -99,13 +99,14 @@ Commit to GitHub
 ```
 
 ## 📂 Repository Structure
-
-```text
 DSA-Placement-Preparation/
 │
 ├── Arrays/
 │   ├── concatenation.py
-│   └── find_even_numbers.py
+│   ├── find_even_numbers.py
+│   ├── num_of_good_pairs.py
+│   ├── count_items.py
+│   └── find_common_elements.py
 │
 ├── Strings/
 │
@@ -127,6 +128,7 @@ DSA-Placement-Preparation/
 │
 └── Dynamic-Programming/
 ```
+
 
 ## 💻 Coding Practice
 
