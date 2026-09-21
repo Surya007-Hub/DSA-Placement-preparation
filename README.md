@@ -96,7 +96,7 @@ Practice LeetCode Problems
 Optimize the Solution
        ↓
 Commit to GitHub
-```
+
 
 ## 📂 Repository Structure
 DSA-Placement-Preparation/
