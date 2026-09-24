@@ -99,16 +99,19 @@ Commit to GitHub
 
 
 ## 📂 Repository Structure
+
+```text
 DSA-Placement-Preparation/
-
-
 │
 ├── Arrays/
 │   ├── concatenation.py
 │   ├── find_even_numbers.py
 │   ├── num_of_good_pairs.py
 │   ├── count_items.py
-│   └── find_common_elements.py
+│   ├── find_common_elements.py
+│   ├── third_max_number.py
+│   ├── count_negative_numbers.py
+│   └── running_sum.py
 │
 ├── Strings/
 │
