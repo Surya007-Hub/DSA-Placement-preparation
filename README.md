@@ -113,6 +113,7 @@ DSA-Placement-Preparation/
 │   ├── count_negative_numbers.py
 │   └── running_sum.py
     └── replace the emts.py
+    └── min in sorted ary.py
 │
 ├── Strings/
 │
